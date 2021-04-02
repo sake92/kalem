@@ -1,3 +1,4 @@
+
 lazy val V = _root_.scalafix.sbt.BuildInfo
 
 inThisBuild(
