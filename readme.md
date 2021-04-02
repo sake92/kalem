@@ -18,6 +18,8 @@ rules = [
 
 Run scalafix to turn this:
 ```scala
+import ba.sake.kalem.Wither
+
 @Wither
 case class MyClass(x: Int, y: String)
 ```
